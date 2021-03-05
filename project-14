@@ -3,7 +3,7 @@
 
 <head>
     <meta charset="utf-8">
-    <title>The Dispatching Truck for Shared Bicycles</title>
+    <title>My remote coach</title>
     <meta name="description" content="">
     <meta name="msapplication-tap-highlight" content="yes" />
     <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1, minimum-scale=1.0, maximum-scale=1.0" />
@@ -121,8 +121,8 @@
     <div class="container">
         <div class="single-project-slider">
             <div class="owl-carousel single-slider">
-                <div><img class="img-responsive center-block" src="img/project1/img_1.jpg" alt="slider"></div>
-                <div><img class="img-responsive center-block" src="img/project1/img_2.jpg" alt="slider"></div>
+                <div><img class="img-responsive center-block" src="img/project14/img_1.jpg" alt="slider"></div>
+                <div><img class="img-responsive center-block" src="img/project14/img_2.jpg" alt="slider"></div>
 
             </div>
             <div class="single-controls">
@@ -135,22 +135,21 @@
         <div class="single-portfolio-wrapper">
             <div class="row">
                 <div class="col-md-8 col-sm-8">
-                    <h1>The Dispatching Truck for Shared Bicycles</h1>
+                    <h1>My remote coach:  A pair of wearable devices for remote fitness</h1>
 
-                    <p>This shared bicycle dispatching vehicle is modified from an ordinary trunk to make it possible to complete the recycle and delivery of shared bicycles. This type of delivery method is more efficient than manual, thus solving a series of social problems caused by shared bicycles..</p>
-                </div>
+                    <p>Due to the global epidemic that began in 2019, sports venues including fitness centers have been closed for a long time, which makes more of people have to choose to exercise at home. Some exercisers who communicate with fitness coaches remotely cannot perform contact-type posture correction, and have never been able to confirm whether their posture is correct. In this pictorial, we present “my remote coach”---a pair of wearable devices for remote fitness, trying to deal with this problem.  </div>
                 <div class="col-md-3 col-md-offset-1 col-sm-4">
                     <div class="project-information">
                         <table class="table">
                             <tbody>
                                 <tr>
                                     <td>Date:</td>
-                                    <td>2017.09—2018.01</td>
+                                    <td>2021.02—2021.03</td>
                                 </tr>
 
                                 <tr>
                                     <td>Category:</td>
-                                    <td>Automotive design</td>
+                                    <td>Wearable design</td>
                                 </tr>
 
                                 <tr>
@@ -176,91 +175,34 @@
     <div class="container">
         <div class="single-project-details">
             <div class="row">
-                
-                
-                                                <center>
-                    <video width="90%" height="100%" controls autoplay>
-  <source src="movie.ogg" type="video/ogg">
-  <source src="img/project01/IMG_1483.mp4" type="video/mp4">
-  <source src="movie.webm" type="video/webm">
-  <object data="movie.mp4" width="1100" height="600">
-    <embed width="1100" height="600" src="movie.swf">
-  </object>
-</video>
-                    </center>
-                <br>
-                <br>     
 
                 
                 <div class="col-md-12 col-sm-6">
                     <div class="single-project-images">
-                        <img src="img/project1/img_1b.jpg" alt="Single Project">
+                        <img src="img/project14/img_1b.jpg" alt="Single Project">
                     </div>
                 </div>
 
 
                 <div class="col-md-12 col-sm-6">
                     <div class="single-project-images">
-                        <img src="img/project1/img_2b.jpg" alt="Single Project">
+                        <img src="img/project14/img_2b.jpg" alt="Single Project">
                     </div>
                 </div>
 
 
                 <div class="col-md-12 col-sm-6">
                     <div class="single-project-images">
-                        <img src="img/project1/img_3b.jpg" alt="Single Project">
+                        <img src="img/project14/img_3b.jpg" alt="Single Project">
                     </div>
                 </div>
 
 
-
-                <div class="col-md-12 col-sm-12">
-                    <div class="single-project-images">
-                        <img src="img/project1/img_4b.jpg" alt="Single Project">
-                    </div>
-                </div>
-
-
-                <div class="col-md-12 col-sm-6">
-                    <div class="single-project-images">
-                        <img src="img/project1/img_5b.jpg" alt="Single Project">
-                    </div>
-                </div>
-
-                <div class="col-md-12 col-sm-6">
-                    <div class="single-project-images">
-                        <img src="img/project1/img_6b.jpg" alt="Single Project">
-                    </div>
-                </div>
-                
-                                                <div class="col-md-12 col-sm-6">
-                    <div class="single-project-images">
-                        <img src="img/project01/img_30b.jpg" alt="Single Project">
-                    </div>
-                </div>
-                
-                                <div class="col-md-12 col-sm-6">
-                    <div class="single-project-images">
-                        <img src="img/project01/img_10b.jpg" alt="Single Project">
-                    </div>
-                </div>
-                
-                <div class="col-md-12 col-sm-6">
-                    <div class="single-project-images">
-                        <img src="img/project01/img_11b.jpg" alt="Single Project">
-                    </div>
-                </div>
-                
-                <div class="col-md-12 col-sm-6">
-                    <div class="single-project-images">
-                        <img src="img/project01/img_12b.jpg" alt="Single Project">
-                    </div>
-                </div>
                 
                 
                 <div class="col-md-12 col-sm-6">
                     <div class="single-project-images">
-                        <img src="img/project01/img_20b.jpg" alt="Single Project">
+                        <img src="img/project14/img_20b.jpg" alt="Single Project">
                     </div>
                 </div>
                 
@@ -393,7 +335,7 @@
                                 <li><a href="#"><i class="iconmoon-pinterest"></i></a></li>
                                 <li><a href="#"><i class="iconmoon-linkedin2"></i></a></li>
                             </ul>
-                            <span class="copyright-mark">&copy; 2020 LIUSHUAI, ALL RIGHTS RESERVED</span>
+                            <span class="copyright-mark">&copy; 2021 LIUSHUAI, ALL RIGHTS RESERVED</span>
                             </div>
                         </div>
                     </div>
